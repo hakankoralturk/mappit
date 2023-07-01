@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PlacesViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
